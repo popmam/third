@@ -12,3 +12,6 @@ Popped a comment here.
 
 
 Added somthing here but the most important is the commit NUMBER 
+
+
+commit on (3). FIRST
